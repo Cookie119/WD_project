@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <!-- Circle background (optional) -->
+  <circle cx="15" cy="15" r="14" fill="none" stroke="#333333" stroke-width="1.5"/>
+  
+  <!-- Cross -->
+  <path d="M15 5 L15 25 M5 15 L25 15" 
+        stroke="#333333" 
+        stroke-width="3"
+        stroke-linecap="round"/>
+</svg>

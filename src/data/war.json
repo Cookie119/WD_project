@@ -1,0 +1,98 @@
+[
+    {
+      "name": "World War II",
+      "period": "1939-1945",
+      "image": "/images/ww2.jpg",
+      "description": "During World War II, various drugs were used by different military forces to enhance soldier performance and endurance.",
+      "drugs": [
+        "Methamphetamine",
+        "Amphetamines",
+        "Cocaine",
+        "Morphine"
+      ],
+      "impact": "The widespread use of stimulants, particularly methamphetamine by German forces and amphetamines by Allied forces, significantly influenced military operations and post-war drug policies."
+    },
+    {
+      "name": "Vietnam War",
+      "period": "1955-1975",
+      "image": "/images/Vietnam_War.jpg",
+      "description": "The Vietnam War saw extensive drug use among American soldiers, both for combat enhancement and recreational purposes.",
+      "drugs": [
+        "Heroin",
+        "Marijuana",
+        "Amphetamines",
+        "Opium"
+      ],
+      "impact": "Drug use during the Vietnam War led to significant addiction issues among veterans and influenced American drug policy and rehabilitation programs."
+    },
+    {
+      "name": "Cold War Era",
+      "period": "1947-1991",
+      "image": "/images/MKUltra.jpg",
+      "description": "During the Cold War, various military and intelligence agencies experimented with drugs for mind control and enhanced interrogation.",
+      "drugs": [
+        "LSD",
+        "MK-ULTRA compounds",
+        "Various psychedelics",
+        "Truth serums"
+      ],
+      "impact": "Cold War drug experiments led to increased understanding of psychoactive substances but also raised serious ethical concerns about human experimentation."
+    },
+    {
+      "name": "American Civil War",
+      "period": "1861-1865",
+      "image": "/images/civil_war.jpg",
+      "description": "Morphine was widely used during the American Civil War to treat injured soldiers, often leading to long-term dependency.",
+      "drugs": [
+        "Morphine",
+        "Chloroform",
+        "Alcohol"
+      ],
+      "impact": "The war saw the rise of what was called the 'Soldier’s Disease', a term used to describe morphine addiction in returning veterans."
+    },
+    {
+      "name": "Napoleonic Wars",
+      "period": "1803-1815",
+      "image": "/images/napoleonic.jpg",
+      "description": "Alcohol and opium were commonly used to treat wounds and manage battlefield stress during the Napoleonic Wars.",
+      "drugs": [
+        "Opium",
+        "Alcohol"
+      ],
+      "impact": "The use of opium in field medicine spread throughout Europe, influencing civilian medical practices."
+    },
+    {
+      "name": "Soviet-Afghan War",
+      "period": "1979-1989",
+      "image": "/images/soviet_afghan.jpg",
+      "description": "Drugs were used both by soldiers and warlords. The conflict helped solidify Afghanistan's place in global opium production.",
+      "drugs": [
+        "Heroin",
+        "Opium"
+      ],
+      "impact": "This war contributed to the rise of Afghanistan’s narcotics trade, which continues to impact global drug markets today."
+    },
+    {
+      "name": "Opium Wars",
+      "period": "1839-1860",
+      "image": "/images/opium_wars.jpg",
+      "description": "Fought primarily over British trade of opium in China, these wars had massive implications for international drug control.",
+      "drugs": [
+        "Opium"
+      ],
+      "impact": "The wars led to widespread opium addiction in China and reshaped trade relationships and colonial power dynamics."
+    },
+    {
+      "name": "Gulf War",
+      "period": "1990-1991",
+      "image": "/images/gulf_war.jpg",
+      "description": "Stimulants and antidepressants were reportedly used by soldiers to stay alert during extended operations in the Gulf War.",
+      "drugs": [
+        "Amphetamines",
+        "Prozac",
+        "Caffeine"
+      ],
+      "impact": "The psychological toll and substance use during the Gulf War led to greater attention to PTSD and veteran mental health care."
+    }
+
+  ]

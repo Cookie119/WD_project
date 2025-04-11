@@ -1,0 +1,776 @@
+[
+  {
+    "name": "ABSINTHE",
+    "start": 1792,
+    "end": "Varies by country",
+    "notes": "Banned in many countries due to thujone; restrictions lifted later in most places. End date refers to the period of widespread prohibition."
+  },
+  {
+    "name": "ACETYLFENTANYL",
+    "start": 1960,
+    "end": "Ongoing concern",
+    "notes": "Schedule I in the USA since 2015, but not yet banned globally. End date represents ongoing concern due to misuse and overdoses."
+  },
+  {
+    "name": "ADRENOCHROME",
+    "start": 1950,
+    "end": "No legal restrictions",
+    "notes": "No known bans. Legal status based on limited research and absence of medical or recreational use."
+  },
+  {
+    "name": "AET",
+    "start": 1960,
+    "end": "Limited data",
+    "notes": "Limited data on legal status, often treated as a controlled substance analog. Legal status based on limited data."
+  },
+  {
+    "name": "ALCOHOL",
+    "start": -5000,
+    "end": "Regulated, but legal",
+    "notes": "Prohibition in the USA (1920-1933), but mostly legal otherwise. Legal status based on regulation and availability."
+  },
+  {
+    "name": "alpha-PVP",
+    "start": 1960,
+    "end": "Widely banned (2014-present)",
+    "notes": "Emergency Scheduling by US DEA in 2014, widely banned since. End date reflects widespread prohibition."
+  },
+  {
+    "name": "AMITRIPTYLINE",
+    "start": 1960,
+    "end": "Ongoing prescription use",
+    "notes": "Prescription drug, not banned. End date indicates continued prescription use."
+  },
+  {
+    "name": "AMPHETAMINE",
+    "start": 1887,
+    "end": "Controlled, but legal with prescription",
+    "notes": "Schedule II in the USA, controlled but not fully banned. Legal status based on controlled availability."
+  },
+  {
+    "name": "AMT",
+    "start": 1960,
+    "end": "Highly controlled",
+    "notes": "Schedule I in the USA, but availability varies. Legal status based on limited availability."
+  },
+  {
+    "name": "AYAHUASCA",
+    "start": -1000,
+    "end": "Ongoing legal status in specific contexts",
+    "notes": "Legal in some countries for religious purposes. Legal status based on restricted availability."
+  },
+  {
+    "name": "BARBITURATES",
+    "start": 1864,
+    "end": "Replaced by safer alternatives (1980s)",
+    "notes": "Controlled in many countries, prescriptions required. End date indicates decline in use due to safer alternatives."
+  },
+  {
+    "name": "BK-MBDB",
+    "start": 1990,
+    "end": "Limited data",
+    "notes": "Limited data on legal status, often treated as a controlled substance analog. Legal status based on limited data."
+  },
+  {
+    "name": "BROMO-DRAGONFLY",
+    "start": 2000,
+    "end": "Limited data on bans (Ongoing)",
+    "notes": "Banned in several countries due to toxicity. End date reflects continued concern."
+  },
+  {
+    "name": "BUFOTENIN",
+    "start": 1960,
+    "end": "Ongoing legal concerns (varying)",
+    "notes": "Schedule I in the USA, but legal status varies elsewhere. End date represents continued concern."
+  },
+  {
+    "name": "BZ",
+    "start": 1950,
+    "end": "Restricted use",
+    "notes": "Military applications, restricted. Legal status based on restricted use."
+  },
+  {
+    "name": "BZP",
+    "start": 1990,
+    "end": "Varies by region",
+    "notes": "Banned in some countries, controlled substance analogs in others. End date reflects varied legal landscape."
+  },
+  {
+    "name": "CAFFEINE",
+    "start": -1000,
+    "end": "Legal worldwide (Ongoing)",
+    "notes": "Legal worldwide. End date implies continuous availability."
+  },
+  {
+    "name": "CANNABINOIDS",
+    "start": 1960,
+    "end": "Legalization in select locations",
+    "notes": "Varying legal status, legal in some countries but with restrictions. Legal status is always being reviewed."
+  },
+  {
+    "name": "CAPSAICIN",
+    "start": -1000,
+    "end": "Ongoing",
+    "notes": "Legal as food ingredient and defense spray. End date indicates continued use."
+  },
+  {
+    "name": "CARBOGEN",
+    "start": 1930,
+    "end": "Obsolete but not banned",
+    "notes": "Used in research, no bans reported. The end dates refers to it use, not if its banned"
+  },
+  {
+    "name": "CATHINONE",
+    "start": 1880,
+    "end": "Schedule 1 controlled by many",
+    "notes": "Controlled substance analog in many countries.Legal status based on being schedule 1 in many countries"
+  },
+  {
+    "name": "CHLOROFORM",
+    "start": 1831,
+    "end": "Used as solvent not anesthetic",
+    "notes": "Restricted use due to toxicity, no bans on industrial applications."
+  },
+  {
+    "name": "CHOCOLATE",
+    "start": -1000,
+    "end": "Legal worldwide (Ongoing)",
+    "notes": "Legal worldwide. End date implies continuous availability."
+  },
+  {
+    "name": "COCAINE / CRACK",
+    "start": 1860,
+    "end": "Continious to be Illegal",
+    "notes": "Schedule II in the USA, controlled substance analogs in many countries."
+  },
+  {
+    "name": "DESOMORPHINE",
+    "start": 1930,
+    "end": "Ongoing (Limited availability)",
+    "notes": "Schedule I in the USA, largely controlled but difficult to manufacture."
+  },
+  {
+    "name": "DET",
+    "start": 1960,
+    "end": "Limited research but Schedule 1",
+    "notes": "Limited data on legal status, often treated as a controlled substance analog."
+  },
+  {
+    "name": "DIPT",
+    "start": 1960,
+    "end": "Limited research but Schedule 1",
+    "notes": "Limited data on legal status, often treated as a controlled substance analog."
+  },
+  {
+    "name": "DMT",
+    "start": 1950,
+    "end": "Ongoing",
+    "notes": "Schedule I in the USA, but legal status varies."
+  },
+  {
+    "name": "DOB",
+    "start": 1967,
+    "end": "Ongoing",
+    "notes": "Schedule I in the USA, limited data on legal status elsewhere."
+  },
+  {
+    "name": "DOC",
+    "start": 1960,
+    "end": "Ongoing",
+    "notes": "Schedule I in the USA, limited data on legal status elsewhere."
+  },
+  {
+    "name": "DOI",
+    "start": 1960,
+    "end": "Ongoing",
+    "notes": "Schedule I in the USA, limited data on legal status elsewhere."
+  },
+  {
+    "name": "DOM",
+    "start": 1960,
+    "end": "Ongoing",
+    "notes": "Schedule I in the USA, limited data on legal status elsewhere."
+  },
+  {
+    "name": "DPT",
+    "start": 1960,
+    "end": "Ongoing",
+    "notes": "Limited data on legal status, often treated as a controlled substance analog."
+  },
+  {
+    "name": "DXM",
+    "start": 1950,
+    "end": "Ongoing",
+    "notes": "Legal over-the-counter in many regions."
+  },
+  {
+    "name": "EPHEDRINE",
+    "start": 1887,
+    "end": "Controlled, legal use",
+    "notes": "Regulated due to use in methamphetamine production, but legal as decongestant."
+  },
+  {
+    "name": "ETHER",
+    "start": 1847,
+    "end": "Ongoing",
+    "notes": "Restricted as anesthetic, but still used in some industrial applications."
+  },
+  {
+    "name": "ETHYLCATHINONE",
+    "start": 1990,
+    "end": "Controlled by",
+    "notes": "Controlled substance analog in many countries."
+  },
+  {
+    "name": "ETHYLENE",
+    "start": 1850,
+    "end": "Industrial Ongoing",
+    "notes": "Used in industry, no bans reported."
+  },
+  {
+    "name": "ETHYLPHENIDATE",
+    "start": 1990,
+    "end": "Controlled Analog",
+    "notes": "Controlled substance analog in many countries."
+  },
+  {
+    "name": "GHB",
+    "start": 1960,
+    "end": "Varies",
+    "notes": "Schedule I in the USA, varies by region."
+  },
+  {
+    "name": "GHV",
+    "start": 1990,
+    "end": "Analog status",
+    "notes": "Limited data on legal status, often treated as controlled substance analog."
+  },
+  {
+    "name": "HARMALA",
+    "start": 1950,
+    "end": "Ritual ongoing",
+    "notes": "Legal status varies, often used in religious ceremonies."
+  },
+  {
+    "name": "HEROIN",
+    "start": 1874,
+    "end": "Illegal Ongoing",
+    "notes": "Schedule I in the USA, mostly illegal worldwide."
+  },
+  {
+    "name": "HYPOCRETIN",
+    "start": 1998,
+    "end": "No Legality",
+    "notes": "Endogenous hormone, no legal restrictions."
+  },
+  {
+    "name": "IAP",
+    "start": 1990,
+    "end": "Limited Analog",
+    "notes": "Limited data on legal status, often treated as controlled substance analog."
+  },
+  {
+    "name": "IBOGAINE",
+    "start": 1900,
+    "end": "Limited for use",
+    "notes": "Schedule I in the USA, legal in some other countries for therapeutic purposes."
+  },
+  {
+    "name": "INHALANTS",
+    "start": 1850,
+    "end": "Ongoing but control",
+    "notes": "Restricted but not banned."
+  },
+  {
+    "name": "KETAMINE",
+    "start": 1960,
+    "end": "Ongoing for legal use",
+    "notes": "Schedule III in the USA, controlled but not banned."
+  },
+  {
+    "name": "LSA",
+    "start": 1950,
+    "end": "Ongoing",
+    "notes": "Varies by region."
+  },
+  {
+    "name": "LSD",
+    "start": 1938,
+    "end": "Limited illegal usage",
+    "notes": "Schedule I in the USA, illegal in many countries, but decriminalized in others."
+  },
+  {
+    "name": "LSZ",
+    "start": 1990,
+    "end": "Unschedule",
+    "notes": "Not Scheduled in USA."
+  },
+  {
+    "name": "MAOIs",
+    "start": 1950,
+    "end": "Limited usage Prescription use",
+    "notes": "Legal with prescription"
+  },
+   {
+    "name": "MBDB",
+    "start": 1970,
+    "end": "Controled",
+    "notes": "Limited Data, Schedule 1 in many countries"
+  },
+   {
+    "name": "mCPP",
+    "start": 1960,
+    "end": "Schedule 1 ",
+    "notes": "Schedule 1, Limited Data in USA"
+  },
+   {
+    "name": "MDA",
+    "start": 1910,
+    "end": "Schedule 1 ",
+    "notes": "Highly illegal with High penalities"
+  },
+   {
+    "name": "MDE",
+    "start": 1960,
+    "end": "Club usage Ongoing",
+    "notes": "Illegal mostly used in clubs and for recreation"
+  },
+   {
+    "name": "MDAI",
+    "start": 1990,
+    "end": "High legal",
+    "notes": "Illegal Schedule 1"
+  },
+   {
+    "name": "MDMA",
+    "start": 1912,
+    "end": "Ongoing illegality",
+    "notes": "Very illegal"
+  },
+   {
+    "name": "MDPR",
+    "start": 1990,
+    "end": "Legality in Check",
+    "notes": "No known Legality. "
+  },
+   {
+    "name": "MDPV",
+    "start": 2000,
+    "end": "2010 Banned worldwide",
+    "notes": "Banned and or restricted"
+  },
+   {
+    "name": "MESCALINE",
+    "start": 1897,
+    "end": "Ritual Usage ongoing",
+    "notes": "Used by native american population"
+  },
+   {
+    "name": "MET",
+    "start": 1960,
+    "end": "Ongoing danger",
+    "notes": "Not Schedule but can be dangerous"
+  },
+   {
+    "name": "METHADONE",
+    "start": 1930,
+    "end": "Perscription",
+    "notes": "Legal with a prescription"
+  },
+   {
+    "name": "METHAMPHETAMINE",
+    "start": 1893,
+    "end": "Highly addcitve",
+    "notes": "Highly addictive. Illegal"
+  },
+   {
+    "name": "METHAQUALONE",
+    "start": 1960,
+    "end": "1984 mostly Illegal",
+    "notes": "Mostly made illegal. Date range for when countries began making illegal."
+  },
+   {
+    "name": "METHIOPROPAMINE",
+    "start": 1990,
+    "end": "Be aware",
+    "notes": "No scheduling, but may be a risk."
+  },
+   {
+    "name": "METHOXETAMINE",
+    "start": 2000,
+    "end": "Schedule danger",
+    "notes": "Limited Data."
+  },
+   {
+    "name": "METHOXPHENIDINE",
+    "start": 2000,
+    "end": "schedule danger",
+    "notes": "Limited data but very dangerous."
+  },
+   {
+    "name": "METHYLONE",
+    "start": 2000,
+    "end": "Limited legal action",
+    "notes": "Sold as Molly or MDMA. dangerous"
+  },
+  {
+    "name": "MIPT",
+    "start": 1990,
+    "end": "Ongoing Schedule",
+    "notes": "Limited data on legal status, often treated as a controlled substance analog."
+  },
+  {
+    "name": "MPTP",
+    "start": 1970,
+    "end": "ongoing destroys brain",
+    "notes": "Not scheduled, but will destroy dopamine cells"
+  },
+  {
+    "name": "NBOMe",
+    "start": 2000,
+    "end": "Continues illegal",
+    "notes": "Schedule 1 but still made."
+  },
+  {
+    "name": "NICOTINE",
+    "start": -1000,
+    "end": "Highly dangerous",
+    "notes": "Addictive and can cause servere cancer if smoked"
+  },
+  {
+    "name": "NITROUS",
+    "start": 1772,
+    "end": "Restricted Ongoing",
+    "notes": "Is used as laughing gas, sometimes to help children with tooth pain."
+  },
+  {
+    "name": "OPIATES",
+    "start": -5000,
+    "end": "Ongoing ",
+    "notes": "Highly addictive and are used as pain killer if legal. if not. then are just highly addictive."
+  },
+  {
+    "name": "OPIUM",
+    "start": -5000,
+    "end": "Ongoing ",
+    "notes": "Highly addictive and are used as pain killer if legal. if not. then are just highly addictive."
+  },
+  {
+    "name": "PETROLEUM ETHER",
+    "start": 1800,
+    "end": "industrial ",
+    "notes": "Is made of flammable substance and can kill cells if directly inhaled"
+  },
+  {
+    "name": "PIPERAZINES",
+    "start": 1990,
+    "end": "Ongoing harm risk",
+    "notes": "Mix of chemicals that can cause liver failure."
+  },
+  {
+    "name": "PCP",
+    "start": 1950,
+    "end": "Ongoing limited illegal use",
+    "notes": "Cause hallucinations and can result in death."
+  },
+  {
+    "name": "PMA",
+    "start": 1960,
+    "end": "deathly Limited ",
+    "notes": "Not as intense as MDMA, however can kill you due to a overdose. "
+  },
+  {
+    "name": "PMMA",
+    "start": 1960,
+    "end": "Ongoing limited death",
+    "notes": "Not as intense as MDMA, however can kill you due to a overdose."
+  },
+  {
+    "name": "PSILOCYBIN & PSILOCIN",
+    "start": 1950,
+    "end": "ongoing and deadly",
+    "notes": "Found in magic mushrooms. If harvested incorrectly or eatin wrong it can kill you"
+  },
+   {
+    "name": "SALVINORIN B ETHOXYMETHYL ETHER",
+    "start": 1950,
+    "end": "unlimited research ",
+    "notes": "Derivative and causes confusion. "
+  },
+   {
+    "name": "SCOPOLAMINE",
+    "start": 1990,
+    "end": "Controlled delerant",
+    "notes": "Causes delrium and hallucination. "
+  },
+   {
+    "name": "SPICE PRODUCT",
+    "start": 1960,
+    "end": "Schedule 1 drug Ongoing",
+    "notes": "Schedule 1 drug and is highly illegal."
+  },
+   {
+    "name": "SSRIs",
+    "start": 1990,
+    "end": "Perscription controlled usage",
+    "notes": "Used to help seratonin in the brain. needs a perscription. "
+  },
+   {
+    "name": "TFMPP",
+    "start": 1990,
+    "end": "Side Effect concerns",
+    "notes": "Can lead to over stimulation."
+  },
+   {
+    "name": "THC",
+    "start": 1960,
+    "end": "Limited legality but growing legalization ",
+    "notes": "Can cause euphoria, altered perception, and appetite stimulation, with risks of anxiety and cognitive impairment."
+  },
+   {
+    "name": "TMA-2",
+    "start": 1990,
+    "end": "Limited testing data",
+    "notes": "Limited data"
+  },
+   {
+    "name": "TOAD VENOM",
+    "start": 1990,
+    "end": "Ongoing",
+    "notes": "Can lead to an uncomfortable death."
+  },
+   {
+    "name": "1,4-BUTANEDIOL",
+    "start": 1990,
+    "end": "Continues Illegal Ongoing",
+    "notes": "Illegal Substance"
+  },
+   {
+    "name": "2-AMINOINDAN",
+    "start": 1990,
+    "end": "Legal Analog",
+    "notes": "Similar to amphetamine"
+  },
+   {
+    "name": "2C-B",
+    "start": 1990,
+    "end": "Raves illegal Ongoing",
+    "notes": "Commonly used at rave parties"
+  },
+   {
+    "name": "2C-B-FLY",
+    "start": 1990,
+    "end": "Hallucigenic Analog death risks",
+    "notes": "Hallucination effects"
+  },
+   {
+    "name": "2C-C",
+    "start": 1990,
+    "end": "Controlled for effects",
+    "notes": "psychedelic similar to mescaline"
+  },
+   {
+    "name": "2C-C-NBOMe",
+    "start": 1990,
+    "end": "High risk of use death",
+    "notes": "Hallucinogenic and toxic at the same time"
+  },
+   {
+    "name": "2C-D",
+    "start": 1990,
+    "end": "Ongoing mind alterations",
+    "notes": "Increase energy levels and cause some mind alterations. "
+  },
+   {
+    "name": "2C-E",
+    "start": 1990,
+    "end": "Effects limited date",
+    "notes": "Used for creativity. "
+  },
+   {
+    "name": "2C-I",
+    "start": 1990,
+    "end": "Enhance effects ongoing",
+    "notes": "Visual effects and some auditory enhancement"
+  },
+   {
+    "name": "2C-I-NBOMe",
+    "start": 1990,
+    "end": "2012",
+    "notes": "very dangerous hallucegenic. "
+  },
+   {
+    "name": "2C-P",
+    "start": 1990,
+    "end": "Limited use",
+    "notes": "Effects for hours"
+  },
+   {
+    "name": "2C-T-2",
+    "start": 1990,
+    "end": "Ongoing risks",
+    "notes": "Introspective Experience."
+  },
+   {
+    "name": "2C-T-4",
+    "start": 1990,
+    "end": "hallucinogenic Ongoing data",
+    "notes": "hallucinogenic"
+  },
+   {
+    "name": "2C-T-7",
+    "start": 1990,
+    "end": "senses increased Schedule use",
+    "notes": "Increase stimulation of senses"
+  },
+   {
+    "name": "2C-T-21",
+    "start": 1990,
+    "end": "schedule Limited testing",
+    "notes": "Increase happiness"
+  },
+   {
+    "name": "3C-P",
+    "start": 1990,
+    "end": "Stimulant Limited",
+    "notes": "Stimulant"
+  },
+   {
+    "name": "3-MeO-PCP",
+    "start": 1990,
+    "end": "ongoing Disassociative",
+    "notes": "Dissociative"
+  },
+   {
+    "name": "4-ACETOXY-DET",
+    "start": 1990,
+    "end": "Ongoing Testing hallucinogenic",
+    "notes": "Hallucinations"
+  },
+   {
+    "name": "4-ACETOXY-DIPT",
+    "start": 1990,
+    "end": "Ongoing Testing hallucinogenic",
+    "notes": "Hallucinations"
+  },
+   {
+    "name": "4-ACETOXY-DMT",
+    "start": 1990,
+    "end": "Ongoing hallucinogenic",
+    "notes": "Hallucinations"
+  },
+   {
+    "name": "4-ACETOXY-MIPT",
+    "start": 1990,
+    "end": "Ongoing Testing hallucinogenic",
+    "notes": "Hallucinations"
+  },
+   {
+    "name": "4-FLUOROAMPHETAMINE",
+    "start": 1990,
+    "end": "Illegal Schedule hallucinogenic",
+    "notes": "Hallucinations"
+  },
+   {
+    "name": "4-FLUOROMETHCATHINONE",
+    "start": 1990,
+    "end": "Illegal Schedule Ongoing",
+    "notes": "Hallucinations"
+  },
+   {
+    "name": "4-HYDROXY-DIPT",
+    "start": 1990,
+    "end": "Legal but Dangeours halluicagenic",
+    "notes": "Hallucinations"
+  },
+   {
+    "name": "4-HYDROXY-MET",
+    "start": 1990,
+    "end": "Legal but Dangeours halluicagenic",
+    "notes": "Hallucinations"
+  },
+   {
+    "name": "4-HYDROXY-MIPT",
+    "start": 1990,
+    "end": "Hallucinations",
+    "notes": "Hallucinations"
+  },
+   {
+    "name": "4-HYDROXY-MPT",
+    "start": 1990,
+    "end": "Ongoing Legal but dangerous  halluicagenic",
+    "notes": "Hallucinations"
+  },
+   {
+    "name": "4-MeO-PCP",
+    "start": 1990,
+    "end": "Ongoing schedule 1 hallucinogenic",
+    "notes": "Hallucinations"
+  },
+   {
+    "name": "4-METHYLAMINOREX",
+    "start": 1990,
+    "end": "Ongoing with risk Hallucinagenic",
+    "notes": "Hallucinations"
+  },
+   {
+    "name": "4-METHYLMETHCATHINONE",
+    "start": 1990,
+    "end": "Legal but dangerous Hallucinagenic",
+    "notes": "Hallucinations"
+  },
+   {
+    "name": "4-METHYLETHCATHINONE",
+    "start": 1990,
+    "end": "Legal but dangerous Hallucinagenic",
+    "notes": "Hallucinations"
+  },
+   {
+    "name": "4-MTA",
+    "start": 1990,
+    "end": "ongoing Hallucinations",
+    "notes": "Hallucinations"
+  },
+   {
+    "name": "5-IT",
+    "start": 1990,
+    "end": "Hallucinations ongoing",
+    "notes": "Hallucinations"
+  },
+   {
+    "name": "5-MeO-AMT",
+    "start": 1990,
+    "end": "Hallucinations Ongoing Schedule1",
+    "notes": "Hallucinations"
+  },
+   {
+    "name": "5-MeO-DALT",
+    "start": 1990,
+    "end": "Hallucinations Ongoing Schedule 1",
+    "notes": "Hallucinations"
+  },
+   {
+    "name": "5-MeO-DMT",
+    "start": 1990,
+    "end": "Hallucinations 1Schedule Ongoing",
+    "notes": "Hallucinations"
+  },
+   {
+    "name": "5-MeO-DIPT",
+    "start": 1990,
+    "end": "Schedule1 deathly Hallucinations",
+    "notes": "Hallucinations"
+  },
+  {
+    "name": "5-MeO-MIPT",
+    "start": 1990,
+    "end": "Hallucinations Schedule1 death",
+    "notes": "Hallucinations"
+  },
+   {
+    "name": "6-APB",
+    "start": 1990,
+    "end": "death Hallucinations Schedule 1",
+    "notes": "Hallucinations"
+  }
+]

@@ -1,0 +1,2435 @@
+[
+    {
+      "name": "ABSINTHE",
+      "otherNames": ["Green Fairy"],
+      "effects": ["Hallucinogenic (disputed)"],
+      "originCountry": "Switzerland",
+      "coordinates": [46.818, 8.227],
+      "foundBy": "Pierre Ordinaire (1792)",
+      "legalStatus": [
+        { "country": "USA", "status": "Legal (thujone-regulated)", "section": "FDA 21CFR" },
+        { "country": "EU", "status": "Legal (≤35mg/kg thujone)", "section": "EC No 1334/2008" }
+      ],
+      "description": "Distilled spirit containing wormwood. Banned in many countries 1900-2000 due to thujone toxicity fears."
+    },
+    {
+      "name": "ACETYLFENTANYL",
+      "otherNames": [],
+      "effects": ["Analgesic"],
+      "originCountry": "USA",
+      "coordinates": [37.0902, -95.7129],
+      "foundBy": "Janssen Pharmaceuticals (1950s)",
+      "legalStatus": [
+        { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+        { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+      ],
+      "description": "Synthetic opioid 15× stronger than heroin. Linked to 32% of 2016 US opioid deaths."
+    },
+    {
+      "name": "ADRENOCHROME",
+      "otherNames": ["Pink adrenaline"],
+      "effects": [],
+      "originCountry": "Unknown",
+      "coordinates": [],
+      "foundBy": "Unknown",
+      "legalStatus": [],
+      "description": "A synthetic compound derived from adrenaline oxidation, historically linked to pseudoscientific claims."
+    },
+    {
+      "name": "AET",
+      "otherNames": [],
+      "effects": ["Psychedelic Tryptamine"],
+      "originCountry": "Unknown",
+      "coordinates": [],
+      "foundBy": "Unknown",
+      "legalStatus": [],
+      "description": "AET (alpha-ethyltryptamine) is a lesser-known tryptamine with reported psychedelic effects."
+    },
+    {
+      "name": "ALCOHOL",
+      "otherNames": ["Beer", "Wine", "Liquor"],
+      "effects": ["Depressant"],
+      "originCountry": "Ancient Civilizations",
+      "coordinates": [],
+      "foundBy": "Unknown",
+      "legalStatus": [
+        { "country": "USA", "status": "Controlled", "section": "21 U.S.C. §117" },
+        { "country": "UK", "status": "Legal (regulated)", "section": "Licensing Act 2003" }
+      ],
+      "description": "Ethanol-based beverages causing sedation, impaired judgment, and motor skill reduction."
+    },
+    {
+      "name": "alpha-PVP",
+      "otherNames": ["Flakka", "Gravel"],
+      "effects": ["Euphoric Stimulant"],
+      "originCountry": "China",
+      "coordinates": [35.8617, 104.1954],
+      "foundBy": "Unknown",
+      "legalStatus": [
+        { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+        { "country": "Sweden", "status": "Banned", "section": "Lagen om förbud mot vissa hälsofarliga varor" }
+      ],
+      "description": "A synthetic cathinone with stimulant properties, often sold as a cheaper alternative to MDMA."
+    },
+    {
+      "name": "AMITRIPTYLINE",
+      "otherNames": ["Elavil"],
+      "effects": ["Anti-depressant; Sedative"],
+      "originCountry": "USA",
+      "coordinates": [37.0902, -95.7129],
+      "foundBy": "Merck (1960s)",
+      "legalStatus": [
+        { "country": "USA", "status": "Prescription", "section": "FDA approved" },
+        { "country": "UK", "status": "Prescription", "section": "MHRA approved" }
+      ],
+      "description": "A tricyclic antidepressant (TCA) with sedative side effects."
+    },
+    {
+      "name": "AMPHETAMINE",
+      "otherNames": ["Speed"],
+      "effects": ["Stimulant"],
+      "originCountry": "Germany",
+      "coordinates": [51.1657, 10.4515],
+      "foundBy": "Nagai Nagayoshi (1887)",
+      "legalStatus": [
+        { "country": "USA", "status": "Schedule II", "section": "CSA §802(32)(A)" },
+        { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+      ],
+      "description": "A central nervous system stimulant used clinically for ADHD and narcolepsy."
+    },
+    {
+      "name": "AMT",
+      "otherNames": ["IT-290"],
+      "effects": ["Psychedelic Tryptamine"],
+      "originCountry": "Unknown",
+      "coordinates": [],
+      "foundBy": "Unknown",
+      "legalStatus": [],
+      "description": "Alpha-methyltryptamine (AMT) is a serotonin receptor agonist with reported hallucinogenic effects."
+    },
+    {
+      "name": "AYAHUASCA",
+      "otherNames": ["Yage"],
+      "effects": ["Psychedelic Brew"],
+      "originCountry": "Amazonia",
+      "coordinates": [-2.5, -77.0],
+      "foundBy": "Indigenous peoples",
+      "legalStatus": [
+        { "country": "USA", "status": "Schedule I (DMT component)", "section": "CSA §802(32)(A)" },
+        { "country": "Peru", "status": "Legal (traditional use)", "section": "Peruvian Law No. 27300" }
+      ],
+      "description": "A traditional Amazonian brew containing DMT and MAO inhibitors."
+    },
+    {
+      "name": "BARBITURATES",
+      "otherNames": [],
+      "effects": ["Depressant"],
+      "originCountry": "Germany",
+      "coordinates": [51.1657, 10.4515],
+      "foundBy": "Adolf von Baeyer (1864)",
+      "legalStatus": [
+        { "country": "USA", "status": "Schedule II-IV", "section": "CSA §802(32)(A)" },
+        { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+      ],
+      "description": "A class of sedative-hypnotic drugs now largely replaced by benzodiazepines."
+    },
+    {
+      "name": "BK-MBDB",
+      "otherNames": [],
+      "effects": ["Euphoric Empathogen"],
+      "originCountry": "Unknown",
+      "coordinates": [],
+      "foundBy": "Unknown",
+      "legalStatus": [],
+      "description": "Benzylkainyl-MBDB is a synthetic cathinone with empathogenic effects."
+    },
+    {
+      "name": "BROMO-DRAGONFLY",
+      "otherNames": ["3C-Bromo-Dragonfly"],
+      "effects": ["Psychedelic Phenethylamine"],
+      "originCountry": "Unknown",
+      "coordinates": [],
+      "foundBy": "Unknown",
+      "legalStatus": [],
+      "description": "A brominated phenethylamine with potent serotonin receptor activation."
+    },
+    {
+      "name": "BUFOTENIN",
+      "otherNames": ["Toad Venom", "5-Hydroxy-DMT"],
+      "effects": ["Psychedelic Tryptamine"],
+      "originCountry": "Mexico",
+      "coordinates": [19.4326, -99.1332],
+      "foundBy": "Indigenous peoples",
+      "legalStatus": [
+        { "country": "USA", "status": "Schedule I (DMT component)", "section": "CSA §802(32)(A)" },
+        { "country": "Mexico", "status": "Legal (traditional use)", "section": "Mexican Law" }
+      ],
+      "description": "A tryptamine found in Bufo alvarius toad secretions."
+    },
+    {
+      "name": "BZ",
+      "otherNames": [],
+      "effects": ["Anti-cholinergic Psychedelic"],
+      "originCountry": "Unknown",
+      "coordinates": [],
+      "foundBy": "Unknown",
+      "legalStatus": [],
+      "description": "Benzodiazepine derivatives like quetiapine sometimes abused for sedative effects."
+    },
+    {
+      "name": "BZP",
+      "otherNames": ["Piperazine", "A2"],
+      "effects": ["Stimulant"],
+      "originCountry": "Unknown",
+      "coordinates": [],
+      "foundBy": "Unknown",
+      "legalStatus": [
+        { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+        { "country": "New Zealand", "status": "Class C", "section": "Misuse of Drugs Act 1975" }
+      ],
+      "description": "Benzylpiperazine (BZP) is a synthetic stimulant with effects similar to amphetamines."
+    },
+    {
+      "name": "CAFFEINE",
+      "otherNames": ["Coffee", "Tea"],
+      "effects": ["Stimulant"],
+      "originCountry": "Ethiopia",
+      "coordinates": [9.1450, 40.4897],
+      "foundBy": "Indigenous peoples",
+      "legalStatus": [
+        { "country": "USA", "status": "Legal", "section": "FDA GRAS" },
+        { "country": "UK", "status": "Legal", "section": "EU food law" }
+      ],
+      "description": "A naturally occurring xanthine alkaloid enhancing alertness and physical performance."
+    },
+    {
+      "name": "CANNABINOIDS",
+      "otherNames": ["JWH-018", "CP 47,497"],
+      "effects": ["Intoxicants"],
+      "originCountry": "USA",
+      "coordinates": [37.0902, -95.7129],
+      "foundBy": "John W. Huffman (1990s)",
+      "legalStatus": [
+        { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+        { "country": "Russia", "status": "Prohibited", "section": "Federal Law No. 3-FZ" }
+      ],
+      "description": "Synthetic cannabinoids sprayed onto plant material, mimicking THC effects."
+    },
+    {
+      "name": "CAPSAICIN",
+      "otherNames": ["Pepper Oil"],
+      "effects": ["Spice, Irritant"],
+      "originCountry": "Mexico",
+      "coordinates": [19.4326, -99.1332],
+      "foundBy": "Indigenous peoples",
+      "legalStatus": [
+        { "country": "USA", "status": "Legal", "section": "FDA GRAS" },
+        { "country": "UK", "status": "Legal", "section": "EU food law" }
+      ],
+      "description": "The active component in chili peppers causing burning sensations."
+    },
+    {
+      "name": "CARBOGEN",
+      "otherNames": ["Meduna's Mixture"],
+      "effects": [],
+      "originCountry": "Hungary",
+      "coordinates": [47.4979, 19.0402],
+      "foundBy": "Ladislas Meduna (1930s)",
+      "legalStatus": [],
+      "description": "A mixture of oxygen and carbon dioxide historically used to induce convulsions."
+    },
+    {
+      "name": "CATHINONE",
+      "otherNames": ["methcathinone"],
+      "effects": ["Stimulant"],
+      "originCountry": "Ethiopia",
+      "coordinates": [9.1450, 40.4897],
+      "foundBy": "Indigenous peoples",
+      "legalStatus": [
+        { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+        { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+      ],
+      "description": "A naturally occurring alkaloid in khat leaves."
+    },
+    {
+      "name": "CHLOROFORM",
+      "otherNames": [],
+      "effects": ["Anaesthetic Volatile Solvent"],
+      "originCountry": "Scotland",
+      "coordinates": [55.3781, -3.4360],
+      "foundBy": "James Simpson (1847)",
+      "legalStatus": [
+        { "country": "USA", "status": "Not for human use", "section": "FDA restrictions" },
+        { "country": "UK", "status": "Not for human use", "section": "MHRA restrictions" }
+      ],
+      "description": "A chlorinated hydrocarbon once used as an anesthetic."
+    },
+    {
+      "name": "CHOCOLATE",
+      "otherNames": ["Theobromine"],
+      "effects": ["Stimulant"],
+      "originCountry": "Mexico",
+      "coordinates": [19.4326, -99.1332],
+      "foundBy": "Indigenous peoples",
+      "legalStatus": [
+        { "country": "USA", "status": "Legal", "section": "FDA GRAS" },
+        { "country": "UK", "status": "Legal", "section": "EU food law" }
+      ],
+      "description": "Contains theobromine, a milder stimulant than caffeine."
+    },
+    {
+      "name": "COCAINE / CRACK",
+      "otherNames": ["Blow"],
+      "effects": ["Euphoric Stimulant"],
+      "originCountry": "Peru",
+      "coordinates": [-12.0433, -77.0283],
+      "foundBy": "Indigenous peoples",
+      "legalStatus": [
+        { "country": "USA", "status": "Schedule II", "section": "CSA §802(32)(A)" },
+        { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+      ],
+      "description": "A central nervous system stimulant derived from coca leaves."
+    },
+    {
+      "name": "DESOMORPHINE",
+      "otherNames": ["Krokodil"],
+      "effects": ["Opioid Analgesic / Euphoriant"],
+      "originCountry": "USA",
+      "coordinates": [37.0902, -95.7129],
+      "foundBy": "Perkin (1874)",
+      "legalStatus": [
+        { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+        { "country": "Russia", "status": "Prohibited", "section": "Federal Law No. 3-FZ" }
+      ],
+      "description": "A potent opioid synthesized from codeine, often contaminated with toxic chemicals."
+    },
+    {
+      "name": "DET",
+      "otherNames": [],
+      "effects": ["Psychedelic Tryptamine"],
+      "originCountry": "Unknown",
+      "coordinates": [],
+      "foundBy": "Unknown",
+      "legalStatus": [],
+      "description": "Diethyltryptamine (DET) is a lesser-known tryptamine with reported hallucinogenic effects."
+    },
+    {
+      "name": "DIPT",
+      "otherNames": [],
+      "effects": ["Psychedelic Tryptamine"],
+      "originCountry": "Unknown",
+      "coordinates": [],
+      "foundBy": "Unknown",
+      "legalStatus": [],
+      "description": "Diisopropyltryptamine (DIPT) is a tryptamine with unique auditory distortion effects."
+    },
+    {
+      "name": "DMT",
+      "otherNames": ["Dimitri"],
+      "effects": ["Psychedelic Tryptamine"],
+      "originCountry": "Amazonia",
+      "coordinates": [-2.5, -77.0],
+      "foundBy": "Indigenous peoples",
+      "legalStatus": [
+        { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+        { "country": "Peru", "status": "Legal (traditional use)", "section": "Peruvian Law No. 27300" }
+      ],
+      "description": "N,N-Dimethyltryptamine is a powerful psychedelic found in plants and animals."
+    },
+    {
+      "name": "DOB",
+      "otherNames": ["Bob", "Dr. Bob"],
+      "effects": ["Psychedelic Phenethylamine"],
+      "originCountry": "USA",
+      "coordinates": [37.0902, -95.7129],
+      "foundBy": "Alexander Shulgin (1967)",
+      "legalStatus": [
+        { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+        { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+      ],
+      "description": "4-Bromo-2,5-dimethoxyphenethylamine (DOB) is a potent serotonin receptor agonist."
+    },
+    {
+        "name": "DOC",
+        "otherNames": [],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1960s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-chloroamphetamine (DOC) is a serotonin receptor agonist with reported hallucinogenic effects."
+      },
+      {
+        "name": "DOI",
+        "otherNames": [],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1960s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-iodoamphetamine (DOI) is a selective 5-HT2A receptor agonist."
+      },
+      {
+        "name": "DOM",
+        "otherNames": ["STP"],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1960s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-methylamphetamine (DOM) is a potent serotonin receptor agonist."
+      },
+      {
+        "name": "DPT",
+        "otherNames": [],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "Dipropyltryptamine (DPT) is a tryptamine with reported empathogenic effects."
+      },
+      {
+        "name": "DXM",
+        "otherNames": ["Robo", "Tussin"],
+        "effects": ["Dissociative, Cough Suppressant"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Merck (1950s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Over-the-counter", "section": "FDA approved" },
+          { "country": "UK", "status": "Pharmacy-only", "section": "MHRA approved" }
+        ],
+        "description": "Dextromethorphan is an antitussive found in cough medicines."
+      },
+      {
+        "name": "EPHEDRINE",
+        "otherNames": ["Mini Thins"],
+        "effects": ["Stimulant"],
+        "originCountry": "China",
+        "coordinates": [35.8617, 104.1954],
+        "foundBy": "Nagai Nagayoshi (1887)",
+        "legalStatus": [
+          { "country": "USA", "status": "Listed chemical", "section": "CSA §802(34)" },
+          { "country": "UK", "status": "Prescription", "section": "MHRA approved" }
+        ],
+        "description": "A naturally occurring alkaloid in Ephedra plants."
+      },
+      {
+        "name": "ETHER",
+        "otherNames": [],
+        "effects": ["Anaesthetic Gas"],
+        "originCountry": "Scotland",
+        "coordinates": [55.3781, -3.4360],
+        "foundBy": "James Simpson (1847)",
+        "legalStatus": [
+          { "country": "USA", "status": "Not for human use", "section": "FDA restrictions" },
+          { "country": "UK", "status": "Not for human use", "section": "MHRA restrictions" }
+        ],
+        "description": "Diethyl ether is a volatile anesthetic with rapid induction."
+      },
+      {
+        "name": "ETHYLCATHINONE",
+        "otherNames": ["ethyl cat"],
+        "effects": ["Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A synthetic cathinone with effects similar to amphetamines."
+      },
+      {
+        "name": "ETHYLENE",
+        "otherNames": [],
+        "effects": ["Anaesthetic Gas"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "A flammable hydrocarbon gas used historically as an anesthetic."
+      },
+      {
+        "name": "ETHYLPHENIDATE",
+        "otherNames": [],
+        "effects": ["Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule II", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A phenethylamine derivative with stimulant properties."
+      },
+      {
+        "name": "GHB",
+        "otherNames": ["G"],
+        "effects": ["Depressant"],
+        "originCountry": "France",
+        "coordinates": [46.2276, 2.2137],
+        "foundBy": "Dr. Henri Laborit (1960s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class C", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "Gamma-hydroxybutyrate is a central nervous system depressant."
+      },
+      {
+        "name": "GHV",
+        "otherNames": [],
+        "effects": ["Depressant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "Gamma-hydroxyvaleric acid (GHV) is a GHB analog with similar sedative effects."
+      },
+      {
+        "name": "HARMALA",
+        "otherNames": ["Haoma", "Harmine", "Harmaline"],
+        "effects": ["MAOI"],
+        "originCountry": "Middle East",
+        "coordinates": [32.4279, 53.6880],
+        "foundBy": "Ancient cultures",
+        "legalStatus": [
+          { "country": "USA", "status": "Legal", "section": "FDA approved" },
+          { "country": "UK", "status": "Legal", "section": "MHRA approved" }
+        ],
+        "description": "A reversible MAO inhibitor found in Syrian rue."
+      },
+      {
+        "name": "HEROIN",
+        "otherNames": ["Horse"],
+        "effects": ["Opiate"],
+        "originCountry": "UK",
+        "coordinates": [51.5074, -0.1278],
+        "foundBy": "C.R. Alder Wright (1874)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "Switzerland", "status": "Prescription", "section": "BetmG" }
+        ],
+        "description": "A semi-synthetic opioid derived from morphine."
+      },
+      {
+        "name": "HYPocretin",
+        "otherNames": ["Orexins"],
+        "effects": ["Hormone"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Masashi Yanagisawa (1998)",
+        "legalStatus": [
+          { "country": "USA", "status": "Prescription", "section": "FDA approved" },
+          { "country": "UK", "status": "Prescription", "section": "MHRA approved" }
+        ],
+        "description": "Hypocretin-1 and -2 regulate arousal and appetite."
+      },
+      {
+        "name": "IAP",
+        "otherNames": [],
+        "effects": ["Psychedelic Amphetamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "N-(1-(2-Iodoethyl)-4-pentylpiperidin-2-yl)-N-methylacetamide is a rare psychedelic amphetamine."
+      },
+      {
+        "name": "IBOGAINE",
+        "otherNames": [],
+        "effects": ["Psychedelic"],
+        "originCountry": "Gabon",
+        "coordinates": [0.3833, 11.6167],
+        "foundBy": "Indigenous peoples",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "Gabon", "status": "Legal (traditional use)", "section": "Gabonese Law" }
+        ],
+        "description": "A naturally occurring alkaloid from Tabernanthe iboga."
+      },
+      {
+        "name": "INHALANTS",
+        "otherNames": [],
+        "effects": [],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "Substances like nitrous oxide and toluene cause rapid intoxication through inhalation."
+      },
+      {
+        "name": "KETAMINE",
+        "otherNames": ["K", "Special K"],
+        "effects": ["Dissociative, Anaesthetic"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Calvin Stevens (1960s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule III", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A dissociative anesthetic causing detachment from reality."
+      },
+      {
+        "name": "LSA",
+        "otherNames": ["LAA", "LA-111", "Lysergamide", "Ergine"],
+        "effects": ["Psychedelic"],
+        "originCountry": "Mexico",
+        "coordinates": [19.4326, -99.1332],
+        "foundBy": "Indigenous peoples",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule III (ergot alkaloids)", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "Lysergic acid amide is a naturally occurring alkaloid in morning glory seeds."
+      },
+      {
+        "name": "LSD",
+        "otherNames": ["Acid", "L"],
+        "effects": ["Psychedelic"],
+        "originCountry": "Switzerland",
+        "coordinates": [47.3769, 8.5417],
+        "foundBy": "Albert Hofmann (1938)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "Czech Republic", "status": "Decriminalized", "section": "Act No. 167/1998" }
+        ],
+        "description": "Lysergic acid diethylamide is a potent serotonin receptor agonist."
+      },
+      {
+        "name": "LSZ",
+        "otherNames": [],
+        "effects": ["Psychedelic"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "Lysergic acid 2-butyl amide (LSZ) is a LSD analog with similar psychedelic effects."
+      },
+      {
+        "name": "MAOIs",
+        "otherNames": [],
+        "effects": [],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "Monoamine oxidase inhibitors like phenelzine used for depression."
+      },
+      {
+        "name": "MBDB",
+        "otherNames": ["Eden", "Methyl-J"],
+        "effects": ["Psychedelic Amphetamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1970s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "Methyl-1-(1,3-benzodioxol-5-yl)-2-butanamine (MBDB) is a MDMA analog with empathogenic effects."
+      },
+      {
+        "name": "mCPP",
+        "otherNames": ["CPP", "3-CPP"],
+        "effects": ["Stimulant"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Merck (1960s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Not scheduled", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Not scheduled", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "Meta-chlorophenylpiperazine is a serotonin receptor agonist."
+      },
+      {
+        "name": "MDA",
+        "otherNames": [],
+        "effects": ["Psychedelic Amphetamine"],
+        "originCountry": "Germany",
+        "coordinates": [51.1657, 10.4515],
+        "foundBy": "Merck (1910s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "3,4-Methylenedioxyamphetamine (MDA) is a serotonin-norepinephrine-dopamine reuptake inhibitor."
+      },
+      {
+        "name": "MDE",
+        "otherNames": ["Eve", "MDEA"],
+        "effects": ["Psychedelic Amphetamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1960s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "3,4-Methylenedioxyethylamphetamine (MDE) is an empathogen with effects similar to MDMA."
+      },
+      {
+        "name": "MDAI",
+        "otherNames": ["MDAI"],
+        "effects": ["Entactogen"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Not scheduled", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "5,6-Methylenedioxy-2-aminoindan (MDAI) is a serotonin-norepinephrine-dopamine reuptake inhibitor."
+      },
+      {
+        "name": "MDMA",
+        "otherNames": ["Ecstasy", "X"],
+        "effects": ["Psychedelic Amphetamine"],
+        "originCountry": "Germany",
+        "coordinates": [51.1657, 10.4515],
+        "foundBy": "Merck (1912)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "Netherlands", "status": "List II", "section": "Opium Law" }
+        ],
+        "description": "3,4-Methylenedioxymethamphetamine is a serotonin-norepinephrine-dopamine reuptake inhibitor."
+      },
+      {
+        "name": "MDPR",
+        "otherNames": [],
+        "effects": ["Phenethylamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "Methylenedioxyphenethylamine (MDPR) is a rare phenethylamine with limited data."
+      },
+      {
+        "name": "MDPV",
+        "otherNames": ["Plant Food", "NRG-1"],
+        "effects": ["Euphoric Stimulant, Empathogen"],
+        "originCountry": "China",
+        "coordinates": [35.8617, 104.1954],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "Methylenedioxypyrovalerone is a synthetic cathinone with intense stimulant effects."
+      },
+      {
+        "name": "MESCALINE",
+        "otherNames": [],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "Mexico",
+        "coordinates": [19.4326, -99.1332],
+        "foundBy": "Indigenous peoples",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "Mexico", "status": "Legal (traditional use)", "section": "Mexican Law" }
+        ],
+        "description": "A naturally occurring alkaloid in peyote cactus."
+      },
+      {
+        "name": "MET",
+        "otherNames": ["Methylethyltryptamine"],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "Methylethyltryptamine (MET) is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "METHADONE",
+        "otherNames": [],
+        "effects": ["Opiate"],
+        "originCountry": "Germany",
+        "coordinates": [51.1657, 10.4515],
+        "foundBy": "Max Bockmühl and Gustav Ehrhart (1937)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule II", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A synthetic opioid used for opioid addiction treatment."
+      },
+      {
+        "name": "METHAMPHETAMINE",
+        "otherNames": ["Meth", "Ice", "Crystal", "Yaba"],
+        "effects": ["Stimulant"],
+        "originCountry": "Japan",
+        "coordinates": [35.6895, 139.7670],
+        "foundBy": "Nagai Nagayoshi (1893)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule II", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A potent central nervous system stimulant."
+      },
+      {
+        "name": "METHAQUALONE",
+        "otherNames": ["Quaaludes", "Ludes"],
+        "effects": ["Depressant"],
+        "originCountry": "India",
+        "coordinates": [20.5937, 78.9629],
+        "foundBy": "Indra Kishore Kacker (1962)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class C", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A sedative-hypnotic once popular for recreational use."
+      },
+      {
+        "name": "METHIOPROPAMINE",
+        "otherNames": ["MPA"],
+        "effects": ["Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A synthetic amphetamine with stimulant properties."
+      },
+      {
+        "name": "METHOXETAMINE",
+        "otherNames": ["MXE"],
+        "effects": ["Dissociative, Psychedelic"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "Methoxetamine is a ketamine analog causing dissociation and altered perception."
+      },
+      {
+        "name": "METHOXPHENIDINE",
+        "otherNames": [],
+        "effects": ["Dissociative, Psychedelic"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "A synthetic compound with ketamine-like effects."
+      },
+      {
+        "name": "METHYLONE",
+        "otherNames": ["bk-MDMA"],
+        "effects": ["Empathogen"],
+        "originCountry": "China",
+        "coordinates": [35.8617, 104.1954],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A synthetic cathinone with empathogenic effects."
+      },
+      {
+        "name": "MIPT",
+        "otherNames": [],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "Methylisopropyltryptamine (MIPT) is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "MPTP",
+        "otherNames": ["Fatal Meperedine-analog Contaminant"],
+        "effects": ["Narcotic"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Not scheduled", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Not scheduled", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A synthetic precursor to MPPP causing severe Parkinsonian symptoms."
+      },
+      {
+        "name": "NBOMe",
+        "otherNames": ["2C-C-NBOMe", "Mescaline-NBOMe", " etc."],
+        "effects": ["Psychedelic, Stimulant, Euphoriant"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "John W. Huffman (2000s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "N-benzylphenethylamine derivatives with potent serotonin receptor activity."
+      },
+      {
+        "name": "NICOTINE",
+        "otherNames": [],
+        "effects": ["Stimulant"],
+        "originCountry": "South America",
+        "coordinates": [-12.0433, -77.0283],
+        "foundBy": "Indigenous peoples",
+        "legalStatus": [
+          { "country": "USA", "status": "Legal (regulated)", "section": "FDA approved" },
+          { "country": "UK", "status": "Legal (regulated)", "section": "MHRA approved" }
+        ],
+        "description": "A naturally occurring alkaloid in tobacco."
+      },
+      {
+        "name": "NITROUS",
+        "otherNames": ["Whippits"],
+        "effects": ["Inhalant"],
+        "originCountry": "UK",
+        "coordinates": [51.5074, -0.1278],
+        "foundBy": "Joseph Priestley (1772)",
+        "legalStatus": [
+          { "country": "USA", "status": "Not scheduled", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Not scheduled", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "Nitrous oxide is a gas used recreationally for brief euphoria."
+      },
+      {
+        "name": "OPIATES",
+        "otherNames": ["Codeine", "Morphine", "Opium"],
+        "effects": ["Narcotics"],
+        "originCountry": "Ancient Civilizations",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule II-IV", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A-C", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "Natural or semi-synthetic opioids derived from poppy plants."
+      },
+      {
+        "name": "OPIUM",
+        "otherNames": [],
+        "effects": ["Narcotic"],
+        "originCountry": "Ancient Civilizations",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule II", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "The dried latex of poppy plants, containing morphine, codeine, and thebaine."
+      },
+      {
+        "name": "PETROLEUM ETHER",
+        "otherNames": ["Naptha"],
+        "effects": ["Volative Solvent"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "A volatile hydrocarbon solvent."
+      },
+      {
+        "name": "PIPERAZINES",
+        "otherNames": ["BZP", "TFMPP", "CPP", "MeOPP", "A2"],
+        "effects": ["Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "New Zealand", "status": "Class C", "section": "Misuse of Drugs Act 1975" }
+        ],
+        "description": "A class of synthetic stimulants like BZP (benzylpiperazine)."
+      },
+      {
+        "name": "PCP",
+        "otherNames": ["Phencyclidine"],
+        "effects": ["Dissociative"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Victor Maddox (1950s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule II", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A dissociative anesthetic causing detachment from reality."
+      },
+      {
+        "name": "PMA",
+        "otherNames": ["4-MA", "paramethoxyamphetamine"],
+        "effects": ["Empathogenic Stimulant"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1960s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "Para-methoxyamphetamine is a serotonin-norepinephrine-dopamine reuptake inhibitor."
+      },
+      {
+        "name": "PMMA",
+        "otherNames": ["4-MMA", "paramethoxymethylamphetamine"],
+        "effects": ["Empathogenic Stimulant"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1960s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A synthetic amphetamine with effects similar to MDMA."
+      },
+      {
+        "name": "PSILOCYBIN & PSILOCIN",
+        "otherNames": [],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Mexico",
+        "coordinates": [19.4326, -99.1332],
+        "foundBy": "Indigenous peoples",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "Peru", "status": "Legal (traditional use)", "section": "Peruvian Law No. 27300" }
+        ],
+        "description": "Naturally occurring in 'magic' mushrooms."
+      },
+      {
+        "name": "SALVINORIN B ETHOXYMETHYL ETHER",
+        "otherNames": ["Symmetry"],
+        "effects": ["Atypical Psychedelic"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "A synthetic salvinorin derivative with κ-opioid receptor activity."
+      },
+      {
+        "name": "SCOPOLAMINE",
+        "otherNames": [],
+        "effects": ["Deliriant"],
+        "originCountry": "South America",
+        "coordinates": [-12.0433, -77.0283],
+        "foundBy": "Indigenous peoples",
+        "legalStatus": [
+          { "country": "USA", "status": "Prescription", "section": "FDA approved" },
+          { "country": "UK", "status": "Prescription", "section": "MHRA approved" }
+        ],
+        "description": "An anticholinergic alkaloid from Datura plants."
+      },
+      {
+        "name": "SPICE PRODUCT",
+        "otherNames": ["Unknown"],
+        "effects": ["Intoxicant, Psychedelic, Cannabinoid"],
+        "originCountry": "China",
+        "coordinates": [35.8617, 104.1954],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "Russia", "status": "Prohibited", "section": "Federal Law No. 3-FZ" }
+        ],
+        "description": "Synthetic cannabinoids sprayed onto plant material."
+      },
+      {
+        "name": "SSRIs",
+        "otherNames": [],
+        "effects": [],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "David T. Wong (1970s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Prescription", "section": "FDA approved" },
+          { "country": "UK", "status": "Prescription", "section": "MHRA approved" }
+        ],
+        "description": "Selective serotonin reuptake inhibitors like fluoxetine used for depression."
+      },
+      
+      {
+        "name": "THC",
+        "otherNames": [],
+        "effects": ["Cannabinoid"],
+        "originCountry": "Ancient Civilizations",
+        "coordinates": [],
+        "foundBy": "Indigenous peoples",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "Canada", "status": "Legal (regulated)", "section": "Cannabis Act" }
+        ],
+        "description": "Tetrahydrocannabinol is the primary psychoactive component in cannabis."
+      },
+      {
+        "name": "TMA-2",
+        "otherNames": [],
+        "effects": ["Phenethylamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "3,4,5-Trimethoxyphenethylamine is a rare phenethylamine with limited data."
+      },
+      {
+        "name": "TOAD VENOM",
+        "otherNames": [],
+        "effects": ["Tryptamines"],
+        "originCountry": "Mexico",
+        "coordinates": [19.4326, -99.1332],
+        "foundBy": "Indigenous peoples",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I (DMT component)", "section": "CSA §802(32)(A)" },
+          { "country": "Mexico", "status": "Legal (traditional use)", "section": "Mexican Law" }
+        ],
+        "description": "Contains bufotenin and other tryptamines."
+      },
+      {
+        "name": "1,4-BUTANEDIOL",
+        "otherNames": ["1,4-B", "BDO"],
+        "effects": ["Depressant"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Not scheduled", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Not scheduled", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A central nervous system depressant metabolized to GHB."
+      },
+      {
+        "name": "2-AMINOINDAN",
+        "otherNames": [],
+        "effects": ["Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "A synthetic compound with amphetamine-like effects."
+      },
+      {
+        "name": "2C-B",
+        "otherNames": ["Bees", "Nexus"],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1970s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-bromophenethylamine (2C-B) is a serotonin receptor agonist."
+      },
+      {
+        "name": "2C-B-FLY",
+        "otherNames": ["2C-Bromo-Fly"],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "A brominated 2C-B analog with enhanced potency."
+      },
+      {
+        "name": "2C-C",
+        "otherNames": [],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1970s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Not scheduled", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Not scheduled", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-chlorophenethylamine (2C-C) is a serotonin receptor agonist."
+      },
+      {
+        "name": "2C-C-NBOMe",
+        "otherNames": ["25C-NBOMe"],
+        "effects": ["Psychedelic Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A potent serotonin receptor agonist with NBOMe substitution."
+      },
+      {
+        "name": "2C-D",
+        "otherNames": [],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1970s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Not scheduled", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Not scheduled", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-methylphenethylamine (2C-D) is a serotonin receptor agonist."
+      },
+      {
+        "name": "2C-E",
+        "otherNames": [],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1970s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-ethylphenethylamine (2C-E) is a serotonin receptor agonist."
+      },
+      {
+        "name": "2C-I",
+        "otherNames": [],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1970s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-iodophenethylamine (2C-I) is a serotonin receptor agonist."
+      },
+      {
+        "name": "2C-I-NBOMe",
+        "otherNames": ["25I-NBOMe"],
+        "effects": ["Psychedelic Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A potent serotonin receptor agonist with NBOMe substitution."
+      },
+      {
+        "name": "2C-T-4",
+        "otherNames": [],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1970s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Not scheduled", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Not scheduled", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-(i)-propylthiophenethylamine (2C-T-4) is a serotonin receptor agonist."
+      },
+      {
+        "name": "2C-T-7",
+        "otherNames": [],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1970s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-(n)-propylthiophenethylamine (2C-T-7) is a serotonin receptor agonist."
+      },
+      {
+        "name": "3-MeO-PCP",
+        "otherNames": [],
+        "effects": ["Dissociative, Psychedelic"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Not scheduled", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "3-Methoxyphencyclidine is a dissociative anesthetic causing detachment from reality."
+      },
+
+      {
+        "name": "4-ACETOXY-DMT",
+        "otherNames": [],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "4-Acetoxy-N,N-dimethyltryptamine is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "4-ACETOXY-MIPT",
+        "otherNames": [],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "4-Acetoxy-N-methyl-N-isopropyltryptamine is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "4-FLUOROAMPHETAMINE",
+        "otherNames": [],
+        "effects": ["Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "A synthetic amphetamine with fluoro substitution."
+      },
+      {
+        "name": "4-FLUOROMETHCATHINONE",
+        "otherNames": ["Flephedrone"],
+        "effects": ["Stimulant"],
+        "originCountry": "China",
+        "coordinates": [35.8617, 104.1954],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A synthetic cathinone with effects similar to amphetamines."
+      },
+      {
+        "name": "4-HYDROXY-DIPT",
+        "otherNames": [],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "4-Hydroxy-diisopropyltryptamine is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "4-HYDROXY-MET",
+        "otherNames": ["4-HO-MET; Metocin; Methylcybin"],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "4-Hydroxy-N-methyl-N-ethyltryptamine is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "4-HYDROXY-MIPT",
+        "otherNames": [],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "4-Hydroxy-N-methyl-N-isopropyltryptamine is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "4-HYDROXY-MPT",
+        "otherNames": [],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "4-Hydroxy-N-methyl-N-propyltryptamine is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "4-MeO-PCP",
+        "otherNames": [],
+        "effects": ["Psychedelic Dissociative"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Not scheduled", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "4-Methoxyphencyclidine is a dissociative anesthetic causing detachment from reality."
+      },
+      {
+        "name": "4-METHYLAMINOREX",
+        "otherNames": ["U4EA"],
+        "effects": ["Stimulant"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "4-Methylaminorex is a stimulant with effects similar to amphetamines."
+      },
+      {
+        "name": "4-METHYLMETHCATHINONE",
+        "otherNames": ["Mephedrone"],
+        "effects": ["Stimulant"],
+        "originCountry": "China",
+        "coordinates": [35.8617, 104.1954],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A synthetic cathinone with effects similar to amphetamines."
+      },
+      {
+        "name": "4-METHYLETHCATHINONE",
+        "otherNames": ["4-MEC"],
+        "effects": ["Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Not scheduled", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A synthetic cathinone with effects similar to amphetamines."
+      },
+      {
+        "name": "4-MTA",
+        "otherNames": ["Flatliner", "Goldeneagle"],
+        "effects": ["Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "4-Methylthioamphetamine is a serotonin-norepinephrine-dopamine reuptake inhibitor."
+      },
+      {
+        "name": "5-IT",
+        "otherNames": [],
+        "effects": ["Psychedelic Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "5-IT is a synthetic compound with reported psychedelic effects."
+      },
+      {
+        "name": "5-MeO-AMT",
+        "otherNames": ["alpha,O-DMS"],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "5-Methoxy-alpha-methyltryptamine is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "5-MeO-DALT",
+        "otherNames": [],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "5-Methoxy-N,N-diallyltryptamine is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "5-MeO-DMT",
+        "otherNames": ["5-MeO"],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Amazonia",
+        "coordinates": [-2.5, -77.0],
+        "foundBy": "Indigenous peoples",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "Peru", "status": "Legal (traditional use)", "section": "Peruvian Law No. 27300" }
+        ],
+        "description": "5-Methoxy-N,N-dimethyltryptamine is a powerful psychedelic found in plants and animals."
+      },
+      {
+        "name": "5-MeO-DIPT",
+        "otherNames": ["Foxy", "Foxy Methoxy"],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1990s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "5-Methoxy-N,N-diisopropyltryptamine is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "5-MeO-MIPT",
+        "otherNames": [],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "5-Methoxy-N-methyl-N-isopropyltryptamine is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "2-AMINOINDAN",
+        "otherNames": [],
+        "effects": ["Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "A synthetic compound with amphetamine-like effects."
+      },
+      {
+        "name": "2C-B",
+        "otherNames": ["Bees", "Nexus"],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1970s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-bromophenethylamine (2C-B) is a serotonin receptor agonist."
+      },
+      {
+        "name": "2C-C",
+        "otherNames": [],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1970s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Not scheduled", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-chlorophenethylamine (2C-C) is a serotonin receptor agonist."
+      },
+      {
+        "name": "2C-C-NBOMe",
+        "otherNames": ["25C-NBOMe"],
+        "effects": ["Psychedelic Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A potent serotonin receptor agonist with NBOMe substitution."
+      },
+      {
+        "name": "2C-D",
+        "otherNames": [],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1970s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Not scheduled", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-methylphenethylamine (2C-D) is a serotonin receptor agonist."
+      },
+      {
+        "name": "2C-E",
+        "otherNames": [],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1970s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-ethylphenethylamine (2C-E) is a serotonin receptor agonist."
+      },
+      {
+        "name": "2C-I",
+        "otherNames": [],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1970s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-iodophenethylamine (2C-I) is a serotonin receptor agonist."
+      },
+      {
+        "name": "2C-I-NBOMe",
+        "otherNames": ["25I-NBOMe"],
+        "effects": ["Psychedelic Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A potent serotonin receptor agonist with NBOMe substitution."
+      },
+
+      {
+        "name": "2C-T-4",
+        "otherNames": [],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1970s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Not scheduled", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-(i)-propylthiophenethylamine (2C-T-4) is a serotonin receptor agonist."
+      },
+      {
+        "name": "2C-T-7",
+        "otherNames": [],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1970s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Not scheduled", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-(n)-propylthiophenethylamine (2C-T-7) is a serotonin receptor agonist."
+      },
+      {
+        "name": "3C-P",
+        "otherNames": [],
+        "effects": ["Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "3-Chlorophenylpiperazine is a serotonin receptor agonist."
+      },
+      {
+        "name": "4-ACETOXY-DET",
+        "otherNames": [],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "4-Acetoxy-N,N-diethyltryptamine is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "4-ACETOXY-DIPT",
+        "otherNames": ["4-Ace"],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "4-Acetoxy-diisopropyltryptamine is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "4-ACETOXY-MIPT",
+        "otherNames": [],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "4-Acetoxy-N-methyl-N-isopropyltryptamine is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "4-FLUOROMETHCATHINONE",
+        "otherNames": ["Flephedrone"],
+        "effects": ["Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A synthetic cathinone with effects similar to amphetamines."
+      },
+      {
+        "name": "4-HYDROXY-MET",
+        "otherNames": ["4-HO-MET; Metocin; Methylcybin"],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "4-Hydroxy-N-methyl-N-ethyltryptamine is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "4-HYDROXY-MIPT",
+        "otherNames": [],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "4-Hydroxy-N-methyl-N-isopropyltryptamine is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "4-HYDROXY-MPT",
+        "otherNames": [],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "4-Hydroxy-N-methyl-N-propyltryptamine is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "4-MeO-PCP",
+        "otherNames": [],
+        "effects": ["Psychedelic Dissociative"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Synthesized in the 1970s",
+        "legalStatus": [
+          { "country": "Canada", "status": "Schedule I", "section": "Controlled Drugs And Substances Act" },
+          { "country": "Chile", "status": "Illegal", "section": "Ley de drogas" }
+        ],
+        "description": "4-Methoxyphencyclidine is a dissociative anesthetic causing detachment from reality."
+      },
+      {
+        "name": "4-METHYLAMINOREX",
+        "otherNames": ["U4EA"],
+        "effects": ["Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "4-Methylaminorex is a stimulant with effects similar to amphetamines."
+      },
+      {
+        "name": "4-METHYLMETHCATHINONE",
+        "otherNames": ["Mephedrone"],
+        "effects": ["Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A synthetic cathinone with effects similar to amphetamines."
+      },
+      {
+        "name": "4-METHYLETHCATHINONE",
+        "otherNames": ["4-MEC"],
+        "effects": ["Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A synthetic cathinone with effects similar to amphetamines."
+      },
+      {
+        "name": "4-MTA",
+        "otherNames": ["Flatliner", "Goldeneagle"],
+        "effects": ["Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "4-Methylthioamphetamine is a stimulant with effects similar to amphetamines."
+      },
+      {
+        "name": "5-IT",
+        "otherNames": [],
+        "effects": ["Psychedelic Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "5-(2-Aminopropyl)indole is a tryptamine derivative with reported psychoactive effects."
+      },
+      {
+        "name": "5-MeO-AMT",
+        "otherNames": ["alpha,O-DMS"],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "5-Methoxy-alpha-methyltryptamine is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "5-MeO-DALT",
+        "otherNames": [],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "5-Methoxy-N,N-diallyltryptamine is a tryptamine with reported psychoactive effects."
+      },
+      {
+        "name": "5-MeO-DMT",
+        "otherNames": ["5-MeO"],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Amazonia",
+        "coordinates": [-2.5, -77.0],
+        "foundBy": "Indigenous peoples",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "Peru", "status": "Legal (traditional use)", "section": "Peruvian Law No. 27300" }
+        ],
+        "description": "5-Methoxy-N,N-dimethyltryptamine is a powerful psychedelic found in plants and animals."
+      },
+      {
+        "name": "5-MeO-DIPT",
+        "otherNames": ["Foxy", "Foxy Methoxy"],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "5-Methoxy-N,N-diisopropyltryptamine is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "5-MeO-MIPT",
+        "otherNames": [],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "5-Methoxy-N-methyl-N-isopropyltryptamine is a tryptamine with reported psychoactive effects."
+      },
+      {
+        "name": "6-APB",
+        "otherNames": ["Benzo Fury"],
+        "effects": ["Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "6-(2-Aminopropyl)benzofuran is a stimulant with effects similar to amphetamines."
+      },
+      {
+        "name": "2-AMINOINDAN",
+        "otherNames": [],
+        "effects": ["Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "A synthetic compound with amphetamine-like effects."
+      },
+      {
+        "name": "2C-B",
+        "otherNames": ["Bees", "Nexus"],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1970s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-bromophenethylamine (2C-B) is a serotonin receptor agonist."
+      },
+      {
+        "name": "2C-C",
+        "otherNames": [],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1970s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-chlorophenethylamine (2C-C) is a serotonin receptor agonist."
+      },
+      {
+        "name": "2C-C-NBOMe",
+        "otherNames": ["25C-NBOMe"],
+        "effects": ["Psychedelic Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A potent serotonin receptor agonist with NBOMe substitution."
+      },
+      {
+        "name": "2C-D",
+        "otherNames": [],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1970s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-methylphenethylamine (2C-D) is a serotonin receptor agonist."
+      },
+      {
+        "name": "2C-E",
+        "otherNames": [],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1970s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-ethylphenethylamine (2C-E) is a serotonin receptor agonist."
+      },
+      {
+        "name": "2C-I",
+        "otherNames": [],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1970s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-iodophenethylamine (2C-I) is a serotonin receptor agonist."
+      },
+      {
+        "name": "2C-P",
+        "otherNames": [],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1960s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-propylphenethylamine (2C-P) is a serotonin receptor agonist."
+      },
+      {
+        "name": "2C-T-2",
+        "otherNames": [],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1960s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-ethylthiophenethylamine (2C-T-2) is a serotonin receptor agonist."
+      },
+      {
+        "name": "2C-T-4",
+        "otherNames": [],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1960s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-(i)-propylthiophenethylamine (2C-T-4) is a serotonin receptor agonist."
+      },
+      {
+        "name": "2C-T-7",
+        "otherNames": [],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1960s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-(n)-propylthiophenethylamine (2C-T-7) is a serotonin receptor agonist."
+      },
+      {
+        "name": "2C-T-21",
+        "otherNames": [],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-(2-fluoroethylthio)phenethylamine (2C-T-21) is a serotonin receptor agonist."
+      },
+      {
+        "name": "4-ACETOXY-MIPT",
+        "otherNames": [],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "4-Acetoxy-N-methyl-N-isopropyltryptamine is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "4-FLUOROMETHCATHINONE",
+        "otherNames": ["Flephedrone"],
+        "effects": ["Stimulant"],
+        "originCountry": "China",
+        "coordinates": [35.8617, 104.1954],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A synthetic cathinone with effects similar to amphetamines."
+      },
+      {
+        "name": "4-HYDROXY-MET",
+        "otherNames": ["4-HO-MET; Metocin; Methylcybin"],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "4-Hydroxy-N-methyl-N-ethyltryptamine is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "4-HYDROXY-MIPT",
+        "otherNames": [],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "4-Hydroxy-N-methyl-N-isopropyltryptamine is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "4-HYDROXY-MPT",
+        "otherNames": [],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "4-Hydroxy-N-methyl-N-propyltryptamine is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "4-MeO-PCP",
+        "otherNames": [],
+        "effects": ["Psychedelic Dissociative"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Victor Maddox (1960s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule II", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "4-Methoxyphencyclidine is a dissociative anesthetic causing detachment from reality."
+      },
+      {
+        "name": "4-METHYLAMINOREX",
+        "otherNames": ["U4EA"],
+        "effects": ["Stimulant"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "4-Methylaminorex is a stimulant with effects similar to amphetamines."
+      },
+      {
+        "name": "4-METHYLMETHCATHINONE",
+        "otherNames": ["Mephedrone"],
+        "effects": ["Stimulant"],
+        "originCountry": "China",
+        "coordinates": [35.8617, 104.1954],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A synthetic cathinone with effects similar to amphetamines."
+      },
+      {
+        "name": "4-MTA",
+        "otherNames": ["Flatliner", "Goldeneagle"],
+        "effects": ["Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "4-Methylthioamphetamine is a serotonin-norepinephrine-dopamine reuptake inhibitor."
+      },
+      {
+        "name": "5-IT",
+        "otherNames": [],
+        "effects": ["Psychedelic Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "5-(2-Aminopropyl)indole is a serotonin receptor agonist."
+      },
+      {
+        "name": "5-MeO-AMT",
+        "otherNames": ["alpha,O-DMS"],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "5-Methoxy-alpha-methyltryptamine is a serotonin receptor agonist."
+      },
+      {
+        "name": "5-MeO-DALT",
+        "otherNames": [],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "5-Methoxy-N,N-diallyltryptamine is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "5-MeO-DMT",
+        "otherNames": ["5-MeO"],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Amazonia",
+        "coordinates": [-2.5, -77.0],
+        "foundBy": "Indigenous peoples",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "Peru", "status": "Legal (traditional use)", "section": "Peruvian Law No. 27300" }
+        ],
+        "description": "5-Methoxy-N,N-dimethyltryptamine is a powerful psychedelic found in plants and animals."
+      },
+      {
+        "name": "5-MeO-DIPT",
+        "otherNames": ["Foxy", "Foxy Methoxy"],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "5-Methoxy-N,N-diisopropyltryptamine is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "5-MeO-MIPT",
+        "otherNames": [],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "5-Methoxy-N-methyl-N-isopropyltryptamine is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "METHYLONE",
+        "otherNames": ["bk-MDMA"],
+        "effects": ["Empathogen"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class B", "section": "Misuse of Drugs Act 1971" },
+          { "country": "Netherlands", "status": "Forbidden to trade", "section": "Medicine Act" }
+        ],
+        "description": "A synthetic cathinone with empathogenic effects, often sold as a cheaper alternative to MDMA."
+      },
+      {
+        "name": "MIPT",
+        "otherNames": [],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "Methylisopropyltryptamine (MIPT) is a tryptamine with reported hallucinogenic effects."
+      },
+      {
+        "name": "MPTP",
+        "otherNames": ["Fatal Meperedine-analog Contaminant"],
+        "effects": ["Narcotic"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Accidental synthesis (1970s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Not scheduled", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Not scheduled", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A synthetic precursor to MPPP (meperidine) causing severe Parkinsonian symptoms."
+      },
+      {
+        "name": "NICOTINE",
+        "otherNames": [],
+        "effects": ["Stimulant"],
+        "originCountry": "South America",
+        "coordinates": [-12.0433, -77.0283],
+        "foundBy": "Indigenous peoples",
+        "legalStatus": [
+          { "country": "USA", "status": "Legal (regulated)", "section": "FDA approved" },
+          { "country": "UK", "status": "Legal (regulated)", "section": "MHRA approved" }
+        ],
+        "description": "A naturally occurring alkaloid in tobacco."
+      },
+      {
+        "name": "NITROUS",
+        "otherNames": ["Whippits"],
+        "effects": ["Inhalant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Joseph Priestley (1772)",
+        "legalStatus": [
+          { "country": "USA", "status": "Legal (regulated)", "section": "FDA approved" },
+          { "country": "UK", "status": "Legal (regulated)", "section": "MHRA approved" }
+        ],
+        "description": "Nitrous oxide is a gas used recreationally for brief euphoria."
+      },
+      {
+        "name": "OPIATES",
+        "otherNames": ["Codeine", "Morphine", "Opium"],
+        "effects": ["Narcotics"],
+        "originCountry": "Ancient Civilizations",
+        "coordinates": [],
+        "foundBy": "Indigenous peoples",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule II-IV", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A-C", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "Natural or semi-synthetic opioids derived from poppy plants."
+      },
+      {
+        "name": "OPIUM",
+        "otherNames": [],
+        "effects": ["Narcotic"],
+        "originCountry": "Ancient Civilizations",
+        "coordinates": [],
+        "foundBy": "Indigenous peoples",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule II", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "The dried latex of poppy plants, containing morphine, codeine, and thebaine."
+      },
+      {
+        "name": "PETROLEUM ETHER",
+        "otherNames": ["Naptha"],
+        "effects": ["Volative Solvent"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "A volatile hydrocarbon solvent."
+      },
+      {
+        "name": "PIPERAZINES",
+        "otherNames": ["BZP", "TFMPP", "CPP", "MeOPP", "A2"],
+        "effects": ["Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "New Zealand", "status": "Class C", "section": "Misuse of Drugs Act 1975" }
+        ],
+        "description": "A class of synthetic stimulants like BZP (benzylpiperazine)."
+      },
+      {
+        "name": "PCP",
+        "otherNames": ["Phencyclidine"],
+        "effects": ["Dissociative"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Victor Maddox (1950s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule II", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A dissociative anesthetic causing detachment from reality."
+      },
+      {
+        "name": "PMA",
+        "otherNames": ["4-MA", "paramethoxyamphetamine"],
+        "effects": ["Empathogenic Stimulant"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1960s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "Para-methoxyamphetamine is a serotonin-norepinephrine-dopamine reuptake inhibitor."
+      },
+      {
+        "name": "PMMA",
+        "otherNames": ["4-MMA", "paramethoxymethylamphetamine"],
+        "effects": ["Empathogenic Stimulant"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1960s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A synthetic amphetamine with effects similar to MDMA."
+      },
+      {
+        "name": "PSILOCYBIN & PSILOCIN",
+        "otherNames": [],
+        "effects": ["Psychedelic Tryptamine"],
+        "originCountry": "Mexico",
+        "coordinates": [19.4326, -99.1332],
+        "foundBy": "Indigenous peoples",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "Peru", "status": "Legal (traditional use)", "section": "Peruvian Law No. 27300" }
+        ],
+        "description": "Naturally occurring in 'magic' mushrooms, they produce serotonin receptor-mediated hallucinations."
+      },
+      {
+        "name": "SALVINORIN B ETHOXYMETHYL ETHER",
+        "otherNames": ["Symmetry"],
+        "effects": ["Atypical Psychedelic"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "A synthetic salvinorin derivative with κ-opioid receptor activity."
+      },
+      {
+        "name": "SCOPOLAMINE",
+        "otherNames": [],
+        "effects": ["Deliriant"],
+        "originCountry": "South America",
+        "coordinates": [-12.0433, -77.0283],
+        "foundBy": "Indigenous peoples",
+        "legalStatus": [
+          { "country": "USA", "status": "Prescription", "section": "FDA approved" },
+          { "country": "UK", "status": "Prescription", "section": "MHRA approved" }
+        ],
+        "description": "An anticholinergic alkaloid from Datura plants."
+      },
+      {
+        "name": "SPICE PRODUCT",
+        "otherNames": ["Unknown"],
+        "effects": ["Intoxicant, Psychedelic, Cannabinoid"],
+        "originCountry": "China",
+        "coordinates": [35.8617, 104.1954],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "Russia", "status": "Prohibited", "section": "Federal Law No. 3-FZ" }
+        ],
+        "description": "Synthetic cannabinoids sprayed onto plant material."
+      },
+    
+      {
+        "name": "TFMPP",
+        "otherNames": [],
+        "effects": ["Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class C", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "3-Trifluoromethylphenylpiperazine is a serotonin receptor agonist."
+      },
+
+      {
+        "name": "TMA-2",
+        "otherNames": [],
+        "effects": ["Phenethylamine"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "3,4,5-Trimethoxyphenethylamine is a rare phenethylamine with limited data."
+      },
+      {
+        "name": "TOAD VENOM",
+        "otherNames": [],
+        "effects": ["Tryptamines"],
+        "originCountry": "Mexico",
+        "coordinates": [19.4326, -99.1332],
+        "foundBy": "Indigenous peoples",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I (DMT component)", "section": "CSA §802(32)(A)" },
+          { "country": "Mexico", "status": "Legal (traditional use)", "section": "Mexican Law" }
+        ],
+        "description": "Contains bufotenin and other tryptamines."
+      },
+      {
+        "name": "1,4-BUTANEDIOL",
+        "otherNames": ["1,4-B", "BDO"],
+        "effects": ["Depressant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [
+          { "country": "USA", "status": "Not scheduled", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Not scheduled", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "A central nervous system depressant metabolized to GHB."
+      },
+      {
+        "name": "2-AMINOINDAN",
+        "otherNames": [],
+        "effects": ["Stimulant"],
+        "originCountry": "Unknown",
+        "coordinates": [],
+        "foundBy": "Unknown",
+        "legalStatus": [],
+        "description": "A synthetic compound with amphetamine-like effects."
+      },
+      {
+        "name": "2C-B",
+        "otherNames": ["Bees", "Nexus"],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1970s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-bromophenethylamine (2C-B) is a serotonin receptor agonist."
+      },
+      {
+        "name": "2C-C",
+        "otherNames": [],
+        "effects": ["Psychedelic Phenethylamine"],
+        "originCountry": "USA",
+        "coordinates": [37.0902, -95.7129],
+        "foundBy": "Alexander Shulgin (1970s)",
+        "legalStatus": [
+          { "country": "USA", "status": "Schedule I", "section": "CSA §802(32)(A)" },
+          { "country": "UK", "status": "Class A", "section": "Misuse of Drugs Act 1971" }
+        ],
+        "description": "2,5-Dimethoxy-4-chlorophenethylamine (2C-C) is a serotonin receptor agonist."
+      }
+]

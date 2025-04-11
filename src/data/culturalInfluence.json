@@ -1,0 +1,114 @@
+[
+  {
+    "drugName": "Absinthe",
+    "culture": "Bohemian Culture",
+    "description": "Absinthe became a symbol of creativity and rebellion in 19th-century Bohemian culture. It was popular among artists and writers, who believed it enhanced their imagination. The drink was often associated with the 'Green Fairy,' a mythical muse. Despite its controversial reputation, absinthe played a significant role in the cultural movements of the time. Its unique preparation and ritualistic consumption added to its allure. Today, it remains a symbol of artistic freedom and counterculture.",
+    "origin": "France",
+    "image": "/images/absinthe-bohemian.jpg",
+    "coordinates": [46.603354, 1.888334]
+  },
+  {
+    "drugName": "Ayahuasca",
+    "culture": "Amazonian Shamanism",
+    "description": "Ayahuasca is a sacred brew used in spiritual rituals by Amazonian shamans. It is believed to facilitate deep introspection and connection with the spiritual realm. The brew is made from the Banisteriopsis caapi vine and other plants. Participants often report profound visions and emotional healing. Ayahuasca ceremonies are guided by experienced shamans who chant icaros, or sacred songs. These rituals are deeply rooted in the cultural and spiritual traditions of the Amazon.",
+    "origin": "South America",
+    "image": "/images/ayahuasca-shamanism.jpg",
+    "coordinates": [-3.4653, -62.2159]
+  },
+  {
+    "drugName": "Peyote",
+    "culture": "Native American Rituals",
+    "description": "Peyote is a small cactus used in sacred ceremonies by Native American tribes. It contains mescaline, a psychoactive compound that induces spiritual visions. The ceremonies often involve prayer, chanting, and drumming. Peyote is considered a sacrament that connects participants with the divine and nature. It plays a central role in the Native American Church, which blends traditional beliefs with Christian elements. The use of peyote is deeply respected and regulated within these communities.",
+    "origin": "North America",
+    "image": "/images/peyote-native-american.jpg",
+    "coordinates": [37.0902, -95.7129]
+  },
+  {
+    "drugName": "Cocaine",
+    "culture": "Andean Culture",
+    "description": "Coca leaves have been chewed for centuries by Andean cultures for their stimulant properties. They are used to combat fatigue, hunger, and the effects of high altitude. Coca is considered sacred and is often used in religious offerings to Pachamama, the Earth Mother. The leaves are also used in traditional medicine for various ailments. Despite its association with modern drug abuse, coca holds a significant cultural and spiritual value in the Andes. Its use is deeply intertwined with the daily lives of Andean people.",
+    "origin": "South America",
+    "image": "/images/coca-andean.jpg",
+    "coordinates": [-13.1631, -72.5450]
+  },
+  {
+    "drugName": "Opium",
+    "culture": "Ancient Chinese Medicine",
+    "description": "Opium was a cornerstone of traditional Chinese medicine, valued for its pain-relieving and sedative properties. It was used to treat a variety of ailments, including insomnia and digestive issues. Opium's influence extended beyond medicine, shaping trade and politics during the Opium Wars. Its use was both revered and controversial, leading to widespread addiction in some periods. Despite its dark history, opium remains a symbol of ancient Chinese medical knowledge. Its legacy continues to influence modern pharmacology.",
+    "origin": "China",
+    "image": "/images/opium-chinese.jpg",
+    "coordinates": [35.8617, 104.1954]
+  },
+  {
+    "drugName": "Cannabis",
+    "culture": "Indian Ayurveda",
+    "description": "Cannabis has been an integral part of Indian Ayurveda for centuries. It is used for its medicinal properties, including pain relief, relaxation, and appetite stimulation. In Hindu culture, cannabis is associated with Lord Shiva and is consumed during religious festivals like Holi. Bhang, a cannabis-infused drink, is a traditional preparation. Ayurveda texts describe cannabis as a remedy for various ailments, emphasizing its balance of benefits and risks. Its use is deeply rooted in both spiritual and medicinal practices in India.",
+    "origin": "India",
+    "image": "/images/cannabis-ayurveda.jpg",
+    "coordinates": [20.5937, 78.9629]
+  },
+  {
+    "drugName": "Khat",
+    "culture": "East African Traditions",
+    "description": "Khat leaves are chewed in East African cultures for their stimulant effects. The practice is deeply social, often involving gatherings where people share stories and bond. Khat is believed to enhance focus and energy, making it popular among laborers and students. Its use is also tied to traditional ceremonies and celebrations. Despite its benefits, khat has faced criticism for its potential health risks and social impact. Nevertheless, it remains a significant cultural practice in East Africa.",
+    "origin": "East Africa",
+    "image": "/images/khat-africa.jpg",
+    "coordinates": [9.145, 40.489673]
+  },
+  {
+    "drugName": "Mescaline",
+    "culture": "Mesoamerican Rituals",
+    "description": "Mescaline, derived from cacti like San Pedro, has been used in Mesoamerican rituals for spiritual enlightenment. The ceremonies often involve chanting, drumming, and other traditional practices. Mescaline is believed to open the mind to higher states of consciousness and facilitate communication with the spiritual world. It plays a crucial role in the cultural and religious practices of various Mesoamerican tribes. The use of mescaline is deeply respected and is often accompanied by strict ceremonial guidelines. Its influence extends to modern spiritual and psychedelic movements.",
+    "origin": "Central America",
+    "image": "/images/mescaline-mesoamerican.jpg",
+    "coordinates": [23.6345, -102.5528]
+  },
+  {
+    "drugName": "Betel Nut",
+    "culture": "Southeast Asian Traditions",
+    "description": "Betel nut chewing is a common practice in Southeast Asia for its stimulant effects and cultural significance. The nut is often wrapped in betel leaves along with lime and other spices. This practice is deeply embedded in social and ceremonial contexts, including weddings and religious rituals. Betel nut is believed to enhance alertness and social interaction. However, its use has been linked to health risks, including oral cancer. Despite these concerns, betel nut remains an important cultural tradition in many Southeast Asian communities.",
+    "origin": "Southeast Asia",
+    "image": "/images/betel-nut-asia.jpg",
+    "coordinates": [13.7563, 100.5018]
+  },
+  {
+    "drugName": "Psilocybin Mushrooms",
+    "culture": "Mesoamerican Shamanism",
+    "description": "Psilocybin mushrooms have been used in Mesoamerican shamanic practices for spiritual and healing purposes. These mushrooms are believed to facilitate communication with the spiritual realm and provide profound insights. Shamanic ceremonies often involve chanting, drumming, and other traditional practices. The use of psilocybin mushrooms is deeply respected and is often accompanied by strict ceremonial guidelines. These practices have influenced modern psychedelic research and therapy. The cultural significance of psilocybin mushrooms continues to be recognized and honored.",
+    "origin": "Central America",
+    "image": "/images/psilocybin-mesoamerican.jpg",
+    "coordinates": [19.4326, -99.1332]
+  },
+  {
+    "drugName": "Kava",
+    "culture": "Pacific Islander Traditions",
+    "description": "Kava is consumed in Pacific Islander cultures for its calming effects and role in social ceremonies. The drink is made from the root of the kava plant and is believed to promote relaxation and social bonding. Kava ceremonies are an important part of cultural and religious events, including weddings and community gatherings. The drink is often prepared and consumed in a ritualistic manner, emphasizing its cultural significance. Despite its calming effects, kava has faced scrutiny for potential health risks. Nevertheless, it remains a cherished tradition in many Pacific Islander communities.",
+    "origin": "Pacific Islands",
+    "image": "/images/kava-pacific.jpg",
+    "coordinates": [-17.7134, 178.065]
+  },
+  {
+    "drugName": "Iboga",
+    "culture": "Central African Spirituality",
+    "description": "Iboga is used in Central African spiritual practices for initiation rites and healing. The root bark of the iboga plant contains ibogaine, a psychoactive compound that induces intense visions. Iboga ceremonies are often led by experienced spiritual leaders and involve chanting, drumming, and other traditional practices. The use of iboga is believed to facilitate deep introspection and spiritual growth. It plays a crucial role in the cultural and religious practices of various Central African tribes. Despite its potential risks, iboga remains a respected and integral part of these traditions.",
+    "origin": "Central Africa",
+    "image": "/images/iboga-africa.jpg",
+    "coordinates": [-0.8037, 11.6094]
+  },
+  {
+    "drugName": "Salvia Divinorum",
+    "culture": "Mazatec Shamanism",
+    "description": "Salvia Divinorum is used by the Mazatec people for divination and spiritual healing. The leaves of the plant contain salvinorin A, a potent psychoactive compound. Mazatec shamans use salvia in ceremonies to facilitate communication with the spiritual realm and gain insights. The use of salvia is deeply respected and is often accompanied by chanting, prayer, and other traditional practices. Despite its powerful effects, salvia is considered a sacred plant and is used with great care. Its cultural significance continues to be recognized and honored.",
+    "origin": "Mexico",
+    "image": "/images/salvia-mazatec.jpg",
+    "coordinates": [17.0732, -96.7266]
+  },
+  {
+    "drugName": "Tobacco",
+    "culture": "Native American Traditions",
+    "description": "Tobacco has been used in Native American rituals for prayer, healing, and spiritual offerings. It is considered a sacred plant and is often used in ceremonies to communicate with the spiritual realm. Tobacco is believed to carry prayers to the Creator and is used in various forms, including smoking, chewing, and as offerings. The use of tobacco is deeply respected and is often accompanied by chanting, drumming, and other traditional practices. Despite its association with modern health risks, tobacco remains an important cultural and spiritual symbol in Native American traditions.",
+    "origin": "North America",
+    "image": "/images/tobacco-native-american.jpg",
+    "coordinates": [37.7749, -122.4194]
+  }
+]
